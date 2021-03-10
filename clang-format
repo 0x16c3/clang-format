@@ -33,8 +33,8 @@ BreakConstructorInitializers: AfterColon
 BreakInheritanceList: AfterColon 
 BreakStringLiterals: true
 CompactNamespaces: false
+SortIncludes: false
 FixNamespaceComments: true
-IncludeBlocks: Regroup
 IndentCaseBlocks: true
 IndentCaseLabels: false
 IndentExternBlock: Indent
